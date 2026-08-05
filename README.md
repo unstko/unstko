@@ -1,6 +1,19 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unstko&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&disable_animations=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unstko&langs_count=3" />
-</a>
+## Hi, I'm Stefan 👋
+
+Software developer based in Germany, working at [@europace](https://github.com/europace),
+part of the [@hypoport](https://github.com/hypoport) group.
+
+Most of my work lives in private repositories. What you find here are the side
+projects I decide to share — small tools, automation and the occasional experiment.
+
+### Projects
+
+<!-- PROJECTS:START -->
+
+New projects are on the way.
+
+<!-- PROJECTS:END -->
+
+---
+
+<sub>Avatar by <a href="https://multiavatar.com/">Multiavatar</a></sub>
