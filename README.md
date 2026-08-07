@@ -10,7 +10,15 @@ projects I decide to share — small tools, automation and the occasional experi
 
 <!-- PROJECTS:START -->
 
-New projects are on the way.
+**[enpass-to-1password](https://github.com/unstko/enpass-to-1password)** — migrates an
+Enpass export into 1Password via the `op` CLI, keeping attachments, folders and field
+types that the usual CSV detour drops. Written for one personal migration, published
+as-is with an honest account of what was and was not verified.
+
+**[Roundcube-plugins](https://github.com/unstko/Roundcube-plugins)** — plugins for the
+Roundcube webmailer.
+
+Both are archived — shared for reference, not maintained.
 
 <!-- PROJECTS:END -->
 
