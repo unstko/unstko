@@ -21,6 +21,13 @@ types that the usual CSV detour drops. Written for one personal migration, publi
 as-is with an honest account of what was and was not verified. Archived — shared for
 reference, not maintained.
 
+**[garmin-export-to-health-connect](https://github.com/unstko/garmin-export-to-health-connect)**
+— an Android app that reads a Garmin account export on the phone and writes the history
+into Health Connect: steps, heart rate, daily values, workouts and sleep. Garmin's own
+link backfills about 30 days; this brings back years. Comes with a FIT decoder of its
+own and an honest account of what Google Health did and did not pick up. Archived —
+shared for reference, not maintained.
+
 **[Roundcube-plugins](https://github.com/unstko/Roundcube-plugins)** — plugins for the
 Roundcube webmailer. Archived — shared for reference, not maintained.
 
